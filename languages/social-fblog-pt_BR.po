@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Social FBlog v3.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-11-08 03:23:49+0000\n"
+"Last-Translator: Claudio Sanches <contato@claudiosmweb.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: includes/class-social-fblog-admin.php:173
+#: includes/class-social-fblog-admin.php:174
+#: social-fblog.php:0
+#@ social-fblog
+msgid "Social FBlog"
+msgstr "Social FBlog"
+
+#. translators: plugin header field 'Author'
+#: social-fblog.php:0
+#@ social-fblog
+msgid "claudiosanches"
+msgstr "claudiosanches"
+
+#. translators: plugin header field 'AuthorURI'
+#: social-fblog.php:0
+#@ social-fblog
+msgid "http://claudiosmweb.com/"
+msgstr "http://claudiosmweb.com/"
+
+#: includes/class-social-fblog.php:103
+#@ social-fblog
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/class-social-fblog.php:108
+#@ social-fblog
+msgid "Display Twitter button"
+msgstr "Exibir o botão do Twitter"
+
+#: includes/class-social-fblog.php:115
+#@ social-fblog
+msgid "Twitter username"
+msgstr "Nome de usuário no Twitter"
+
+#: includes/class-social-fblog.php:118
+#@ social-fblog
+msgid "Just insert the username. Example: ferramentasblog"
+msgstr "Insira apenas o seu nome de usuário. Exemplo: ferramentasblog"
+
+#: includes/class-social-fblog.php:123
+#@ social-fblog
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: includes/class-social-fblog.php:128
+#@ social-fblog
+msgid "Display Google Plus button"
+msgstr "Exibir o botão do Google Plus"
+
+#: includes/class-social-fblog.php:135
+#@ social-fblog
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/class-social-fblog.php:140
+#@ social-fblog
+msgid "Display Facebook button"
+msgstr "Exibir o botão do Facebook"
+
+#: includes/class-social-fblog.php:147
+#@ social-fblog
+msgid "Display Facebook Send button"
+msgstr "Exibir o botão Enviar do Facebook"
+
+#: includes/class-social-fblog.php:154
+#@ social-fblog
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: includes/class-social-fblog.php:159
+#@ social-fblog
+msgid "Display LinkedIn button"
+msgstr "Exibir o botão do LinkedIn"
+
+#: includes/class-social-fblog.php:166
+#@ social-fblog
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: includes/class-social-fblog.php:171
+#@ social-fblog
+msgid "Display Pinterest button"
+msgstr "Exibir o botão do Pinterest"
+
+#: includes/class-social-fblog.php:178
+#: includes/class-social-fblog.php:435
+#@ social-fblog
+msgid "Email"
+msgstr "Email"
+
+#: includes/class-social-fblog.php:183
+#@ social-fblog
+msgid "Display Email button"
+msgstr "Exibir botão de Email"
+
+#: includes/class-social-fblog-admin.php:200
+#: includes/class-social-fblog-admin.php:428
+#: includes/class-social-fblog.php:190
+#@ social-fblog
+msgid "Settings"
+msgstr "Configurações"
+
+#: includes/class-social-fblog.php:195
+#@ social-fblog
+msgid "Display Buttons in"
+msgstr "Exibir botões em"
+
+#: includes/class-social-fblog.php:199
+#@ social-fblog
+msgid "Posts and Pages"
+msgstr "Posts e Páginas"
+
+#: includes/class-social-fblog.php:200
+#@ social-fblog
+msgid "Only in Posts"
+msgstr "Apenas em Posts"
+
+#: includes/class-social-fblog.php:201
+#@ social-fblog
+msgid "Only in Pages"
+msgstr "Apenas em Páginas"
+
+#: includes/class-social-fblog.php:207
+#@ social-fblog
+msgid "Horizontal Alignment"
+msgstr "Alinhamento horizontal"
+
+#: includes/class-social-fblog.php:210
+#@ social-fblog
+msgid "This option is used to control the distance of the sharing buttons on the content. Use only integer numbers."
+msgstr "Esta opção é utilizada para controlar a distância entre os botões e o conteúdo. Use apenas números inteiros."
+
+#: includes/class-social-fblog.php:215
+#@ social-fblog
+msgid "Initial Distance"
+msgstr "Distância inicial"
+
+#: includes/class-social-fblog.php:218
+#@ social-fblog
+msgid "This option controls the distance that the sharing buttons will appear to load page. Use only integer numbers."
+msgstr "Esta opção controla a distância que os botões ficarão em relação ao título ao carregar a página. Use apenas números inteiros."
+
+#: includes/class-social-fblog.php:223
+#@ social-fblog
+msgid "Add Rounded Edges"
+msgstr "Adicionar bordar redondas"
+
+#: includes/class-social-fblog.php:226
+#@ social-fblog
+msgid "Does not work in old browsers."
+msgstr "Não funciona em navegadores antigos."
+
+#: includes/class-social-fblog.php:231
+#@ social-fblog
+msgid "Motion Effects"
+msgstr "Efeitos de movimento"
+
+#: includes/class-social-fblog.php:235
+#@ social-fblog
+msgid "Elastic"
+msgstr "Elástico"
+
+#: includes/class-social-fblog.php:236
+#@ social-fblog
+msgid "Static"
+msgstr "Estático"
+
+#: includes/class-social-fblog.php:242
+#@ social-fblog
+msgid "Opacity Effects"
+msgstr "Efeitos de opacidade"
+
+#: includes/class-social-fblog.php:245
+#@ social-fblog
+msgid "Does not work in versions 6, 7 ​​and 8 of Internet Explorer."
+msgstr "Não funciona nas versões 6, 7 e 8 do Internet Explorer."
+
+#: includes/class-social-fblog.php:247
+#@ social-fblog
+msgid "No Effect (default)"
+msgstr "Sem efeito (padrão)"
+
+#: includes/class-social-fblog.php:248
+#@ social-fblog
+msgid "Initial Opacity"
+msgstr "Opacidade no início"
+
+#: includes/class-social-fblog.php:249
+#@ social-fblog
+msgid "Continuous Opacity"
+msgstr "Opacidade contínua"
+
+#: includes/class-social-fblog.php:255
+#@ social-fblog
+msgid "Opacity Intensity"
+msgstr "Intensidade da opacidade"
+
+#: includes/class-social-fblog.php:258
+#@ social-fblog
+msgid "Enter values ​​between \"0.1\" to \"1\".<br />This option works only if it has been activated the \"Opacity Effects\" as \"Initial Opacity\" or \"Continuous Opacity\""
+msgstr "Digite valores entre \"0.1\" até \"1\".<br />Esta opção funciona apenas quando estiver ativada a opção de \"Efeitos de opacidade\" como \"Opacidade no início\" ou \"Opacidade contínua\""
+
+#: includes/class-social-fblog-admin.php:200
+#@ social-fblog
+msgid "Buttons"
+msgstr "Botões"
+
+#: includes/class-social-fblog-admin.php:355
+#@ social-fblog
+msgid "Activate/Deactivate"
+msgstr "Ativar/Desativar"
+
+#: includes/class-social-fblog.php:435
+#@ social-fblog
+msgid "Share by Email"
+msgstr "Compartilhar por e-mail"
+
+#: includes/class-social-fblog.php:456
+#@ social-fblog
+msgid "en-US"
+msgstr "pt-BR"
+
+#: includes/class-social-fblog.php:458
+#@ social-fblog
+msgid "en_US"
+msgstr "pt_BR"
+
+#. translators: plugin header field 'Description'
+#: social-fblog.php:0
+#@ social-fblog
+msgid "Inserts a floating box next to your blog posts to share your content on Twitter, Facebook and Google Plus and others."
+msgstr "Insere uma caixa flutuante ao lado de seus posts para compartilhar seu conteúdo no Twitter, Facebook e Plus Google e outros."
+
+#. translators: plugin header field 'PluginURI'
+#: social-fblog.php:0
+#@ social-fblog
+msgid "https://github.com/claudiosmweb/social-fblog"
+msgstr "https://github.com/claudiosmweb/social-fblog"
+
+#. translators: plugin header field 'Version'
+#: social-fblog.php:0
+#@ social-fblog
+msgid "3.1.0"
+msgstr "3.1.0"
+
